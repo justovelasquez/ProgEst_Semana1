@@ -4,6 +4,6 @@ for number in range (1,11):
     cantidad = int(input("Ingrese la cantidad:"))
     if cantidad == 0:
         continue
-    else:
-        print("su producto es:" + str(nombre))
-        print("la cantidad es:"  + str(cantidad))
+    print("producto disponible")
+
+
